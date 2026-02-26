@@ -21,4 +21,4 @@ Built a Python mood-tracking app that stores and displays wellness entries using
 ## How to Run
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Mental-wellness-checkin-app.git
+   git clone https://github.com/Rhonoyaa/Mental-wellness-checkin-app.git
